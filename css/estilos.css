@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(255, 252, 247);
+    border-width: 10px;
+    padding: 30px;
+    height: 20px;
+    margin-top: 20px;
+    font-family: monospace;
+}
+
+h1{
+    background-color: rgb(252, 235, 249);
+    border-color: rgb(202, 152, 191);
+    border-radius: 10px;
+    color: rgb(45, 41, 44);
+    text-align: end;
+}
+
+h2{
+    font-size: 18 pt; 
+    color:  rgb(94, 62, 86);
+}
+
+h3{
+    color:  rgb(136, 54, 116);
+}
+
+strong{
+   color: rgb(184, 34, 134);
+}
+
+ul{
+    list-style-type: square;
+}
+
+ol{
+    list-style-type: decimal-leading-zero;
+}
+
+p{
+    text-align: justify;
+}
